@@ -604,8 +604,10 @@ section {
 }
 
 .why-us .img-bg {
-  min-height: 500px;
+  height: 100%;
+  width: auto;
   background-size: cover;
+  overflow: hidden;
 }
 
 .why-us .slides {
@@ -2166,4 +2168,9 @@ section {
   text-align: center;
   font-size: 13px;
   color: var(--color-secondary);
+}
+
+.evedec{
+  align-content: space-around; text-align: justify;
+  text-justify: inter-word;
 }
