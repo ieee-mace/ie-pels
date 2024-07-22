@@ -836,7 +836,10 @@ section {
   transform: scale(1.05);
 }
 .regtext{
-  color: #6699CC;
+  color: #4F000B;
+  /* color: #7FB7BE; */
+  /* color: #662E9B; */
+  font-size: x-large;
 }
 @media (max-width: 992px) {
   .img-box {
