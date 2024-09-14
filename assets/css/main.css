@@ -826,13 +826,14 @@ section {
   color: #4F000B;
 }
 .regdlp{
-  background: linear-gradient(to bottom, #FF8C42, #FFF275);
+  background: #FF8C42;
   border-radius: 7px;
-  border-color: #6699CC;
+  border-color: #FF8C42;
   transition: transform 0.3s ease;
 }
 .regdlp:hover{
-  background:#6699CC;
+  background:#4F000B;
+  border-color: #4F000B;
   transform: scale(1.05);
 }
 .regtext{
